@@ -1,7 +1,11 @@
-## Project UAS
+## Project UAS Pemrograman web
 
-- harus lebih dari satu file html
-- tidak boleh mengunakan bootstrap atau framework lain.
-- dikumpulkan tepat waktu
+
+#####Rule :
+
+- harus lebih dari satu file html.
+- tidak boleh mengunakan bootstrap atau framework css lain.
+- dikumpulkan tepat waktu :D.
+- diperbolehkan meggunakan library jQuery.
 
 info: gilangputra@icloud.com

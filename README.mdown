@@ -1,0 +1,7 @@
+## Project UAS
+
+- harus lebih dari satu file html
+- tidak boleh mengunakan bootstrap atau framework lain.
+- dikumpulkan tepat waktu
+
+info: gilangputra@icloud.com

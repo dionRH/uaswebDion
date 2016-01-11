@@ -28,9 +28,6 @@
 				xmp.open("post", data, true);
 				setTimeout(function () {xmp.send()},2000);
 			});
-			function removeLoader() {
-				$(".loader").fadeOut(100);
-			}
 		},
 		toTop: function () {
 			$(window).scroll(function(event) {
